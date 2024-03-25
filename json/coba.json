@@ -1,0 +1,44 @@
+[
+    {
+        "nama" : "Jefta Supraja",
+        "umur" : 21,
+        "NIM" : "2110511131",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Henki Bayu Seta",
+            "pembimbing2" : "Sandhika Galih"
+        }
+    },
+    {
+        "nama" : "Jefta Supraja",
+        "umur" : 21,
+        "NIM" : "2110511131",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Henki Bayu",
+            "pembimbing2" : "Sandhika Galih"
+        }
+    },
+    {
+        "nama" : "Jefta Supraja",
+        "umur" : 21,
+        "NIM" : "2110511131",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Henki",
+            "pembimbing2" : "Sandhika Galih"
+        }
+    }
+]
